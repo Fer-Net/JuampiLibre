@@ -1,12 +1,12 @@
 #-------------------------------------------------------------------------------
-# Name:        Objetos
-# Purpose:  Botones, sprites
+# Name:        EscenaJuego.py
+# Purpose:     -
 #
-# Author:      fer
+# Author:      "Proyecto Juega Juampi! "Fernando Torres y Eduardo Cachizumba
 #
-# Created:     21/12/2016
-# Copyright:   (c) fer 2016
-# Licence:     <your licence>
+# Created:     12/04/2018
+# Copyright:   (c) Fernando Torres
+# Licence:     GNU General Public License v3.0
 #-------------------------------------------------------------------------------
 import pygame
 from pygame.locals import *

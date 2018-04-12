@@ -1,12 +1,12 @@
 #-------------------------------------------------------------------------------
-# Name:        module1
-# Purpose:
+# Name:        EscenaJuego.py
+# Purpose:     -
 #
-# Author:
+# Author:      "Proyecto Juega Juampi! "Fernando Torres y Eduardo Cachizumba
 #
-# Created:     22/12/2016
-# Copyright:   (c) fer 2016
-# Licence:     <your licence>
+# Created:     12/04/2018
+# Copyright:   (c) Fernando Torres
+# Licence:     GNU General Public License v3.0
 #-------------------------------------------------------------------------------
 from Objetos import *
 import shutil

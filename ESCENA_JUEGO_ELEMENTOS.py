@@ -1,12 +1,12 @@
 #-------------------------------------------------------------------------------
-# Name:        Principal
-# Purpose:
+# Name:        EscenaJuego.py
+# Purpose:     -
 #
-# Author:      Fer Net
+# Author:      "Proyecto Juega Juampi! "Fernando Torres y Eduardo Cachizumba
 #
-# Created:     09/03/2017
-# Copyright:   (c) Fer Net 2017
-# Licence:     <your licence>
+# Created:     12/04/2018
+# Copyright:   (c) Fernando Torres
+# Licence:     GNU General Public License v3.0
 #-------------------------------------------------------------------------------
 
 import shutil

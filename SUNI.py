@@ -1,3 +1,14 @@
+#-------------------------------------------------------------------------------
+# Name:        EscenaJuego.py
+# Purpose:     -
+#
+# Author:      "Proyecto Juega Juampi! "Fernando Torres y Eduardo Cachizumba
+#
+# Created:     12/04/2018
+# Copyright:   (c) Fernando Torres
+# Licence:     GNU General Public License v3.0
+#-------------------------------------------------------------------------------
+
 import pygame
 import random
 import webbrowser
